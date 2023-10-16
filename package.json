@@ -10,10 +10,12 @@
   },
   "author": "BJ Klingenberg",
   "license": "ISC",
-  "dependencies": {
-    "jest": "^27.4.5"
-  },
   "devDependencies": {
-    "cross-env": "^7.0.3"
-  }
+    "chai": "^4.3.10",
+    "cross-env": "^7.0.3",
+    "jest": "^29.7.0",
+    "mocha": "^10.2.0",
+    "request": "^2.88.2"
+  },
+  "keywords": []
 }
